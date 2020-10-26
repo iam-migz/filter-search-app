@@ -20,11 +20,6 @@ export default {
         productData: {
             type: Array
         }
-    },
-    created: {
-        function (){
-            
-        }
     }
 }
 </script>
