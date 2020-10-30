@@ -1,4 +1,4 @@
-# filter-app
+# filter-search-app
 
 ## Project setup
 ```
